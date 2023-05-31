@@ -12,7 +12,7 @@ html:
 - The line on the footer was on the first div, so I put it back on the div footer
 css:
 - text-aling on body was: end so I switched it for center
-- the margin on #hero only had a number that was supposed to be bottom, so I fixed it
-- the img was getting both images, so I wrote #hero img to fix it and switched the margin from 100px to 72px which was the correct number on Figma
-- the margin-botton that represents distance between the title and the text was on h1 span, so I put it on the correct place
-- on #balls it showed top: 0 and right: 0, so I switched to bottom: 0 and right: 0, because that's where it's supposed to be
+- The margin on #hero only had a number that was supposed to be bottom, so I fixed it
+- The img was getting both images, so I wrote #hero img to fix it and switched the margin from 100px to 72px which was the correct number on Figma
+- The margin-botton that represents distance between the title and the text was on h1 span, so I put it on the correct place
+- On #balls it showed top: 0 and right: 0, so I switched to bottom: 0 and right: 0, because that's where it's supposed to be

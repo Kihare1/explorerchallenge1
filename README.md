@@ -17,6 +17,6 @@ css:
 - The margin-botton that represents distance between the title and the text was on h1 span, so I put it on the correct place
 - On #balls it showed top: 0 and right: 0, so I switched to bottom: 0 and right: 0, because that's where it's supposed to be
 
-How it looked like ![old version](https://prnt.sc/NVijqrSIKED4)
+How it looked like ![old version](https://i.imgur.com/EE1TnXw.png)
 
-How it's actually supposed to look like https://prnt.sc/4dl-pB-I9dy7
+How it's actually supposed to look like ![new version](https://i.imgur.com/E14hzw4.png)

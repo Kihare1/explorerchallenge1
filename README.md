@@ -1,4 +1,4 @@
-# explorerchallenge1
+# Challenge 1 - Explorer
 First challenge of a web programming course 
 
 In this challenge I had to fix the bugs on a broken code to make the website look like the original one. So I'll list here what I had to do:

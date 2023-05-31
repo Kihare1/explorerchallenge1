@@ -16,3 +16,7 @@ css:
 - The img was getting both images, so I wrote #hero img to fix it and switched the margin from 100px to 72px which was the correct number on Figma
 - The margin-botton that represents distance between the title and the text was on h1 span, so I put it on the correct place
 - On #balls it showed top: 0 and right: 0, so I switched to bottom: 0 and right: 0, because that's where it's supposed to be
+
+How it looked like ![alt text](https://prnt.sc/NVijqrSIKED4)
+
+How it's actually supposed to look like https://prnt.sc/4dl-pB-I9dy7
